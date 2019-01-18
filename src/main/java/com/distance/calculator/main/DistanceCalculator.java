@@ -15,6 +15,10 @@ public class DistanceCalculator {
 		System.out.println(distance(32.9697, -96.80322, 29.46786, -98.53506, "N") + " Milhas náuticas\n");
 	}
 	
+	public static void novoMetodo() {
+		System.out.println("teste de branch");
+	}
+	
 	/**
 	 * metodo para calcular a distancia
 	 * @param lat1
