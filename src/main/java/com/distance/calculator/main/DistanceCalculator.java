@@ -4,7 +4,7 @@ package com.distance.calculator.main;
 /**
  * Classe para calcular distancia entre latitude e longitude
  * Classe modificada do site GeoDataSource.com
- * @author Diego
+ * @author Diego Simon
  * @since 31/07/2018
  */
 public class DistanceCalculator {
